@@ -5,4 +5,10 @@
  square(2)
 
  const add = (parA,parB) => parA+parB;
- add(3,4)git 
+ add(3,4)
+
+
+
+
+
+
